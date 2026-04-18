@@ -1,4 +1,7 @@
 # github-telegram-webhook
+> [!CAUTION]
+> I've decided to archive this project. Modern world has great a lot of low-code platforms (e.g. n8n) to solve so simple task like this.
+
 Webhook to receive events from GitHub
 
 ## How to run
